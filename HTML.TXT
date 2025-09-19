@@ -1,0 +1,35 @@
+ <html>
+
+ <head>
+
+ <title>program text formatting tags</title>
+
+ </head>
+
+ <body>
+
+ <h1 align=center>different tag format </h1>
+
+ <br>
+
+ <b> bold </b> <br>
+
+ <i> italic </i> <br>
+
+ <u> underline </u> <br>
+
+ <big> big </big> <br>
+
+ <small> small </small> <br>
+
+ <strong> strong </strong> <br>
+
+ <em> emphasise </em> <br>
+
+ <code> code </code> <br>
+
+ <h1> header tag </h1>
+
+ </body>
+
+ </html>
